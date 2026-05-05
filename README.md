@@ -24,9 +24,7 @@ Para que o sistema funcione corretamente, algumas condições devem ser respeita
 
 ---
 
-## 🧠 Técnicas de IA e Visão Computacional Utilizadas
-
-Embora não utilize redes neurais profundas, o projeto emprega técnicas clássicas de Inteligência Artificial voltadas para **Visão Computacional**, incluindo:
+## 🧠 Técnicas clássicas de Visão Computacional Utilizadas
 
 ### 1. Pré-processamento de imagem
 
