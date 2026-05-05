@@ -115,3 +115,8 @@ python main.py
 * Um marcador central será exibido
 * Um contador individual aparecerá sobre cada item
 * Um painel superior exibirá o total detectado
+
+### Exemplos
+
+![Exemplo 1](assets/ex1.PNG)
+![Exemplo 2](assets/ex2.PNG)
